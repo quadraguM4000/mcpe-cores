@@ -6,13 +6,13 @@
         }
 
         footer {
-            text-align: left_edge;
+            text-align: center;
             padding: 1rem;
             background-color: #212121;
         }
 
         h1 {
-            text-align: left_edge;
+            text-align: center;
         }
 
         h2, h3, h4, p {
